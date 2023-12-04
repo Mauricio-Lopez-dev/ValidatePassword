@@ -97,5 +97,4 @@ public class ValidatePassword
         // Output
         System.out.println("Valid password");
     }
-    
 }
